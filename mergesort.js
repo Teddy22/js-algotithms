@@ -40,5 +40,4 @@ function defaultComparator(value1, value2) {
     else return 0;
 }
 
-
 module.exports = mergeSort;
