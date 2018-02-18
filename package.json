@@ -1,0 +1,19 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Implementations of algorithms in JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teddy22/js-algotithms.git"
+  },
+  "author": "Teddy Mwangi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teddy22/js-algotithms/issues"
+  },
+  "homepage": "https://github.com/Teddy22/js-algotithms#readme"
+}
